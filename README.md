@@ -4,6 +4,8 @@ A Compose Multiplatform desktop app that puts a 2-D wing section in a virtual
 wind tunnel. You see the section from the side, the airstream bending around it,
 and the loads it carries.
 
+![Flyshape wind tunnel window: a NACA 2412 section at 6 degrees and 26 m/s, with streamlines, smoke particles, the pressure map, and lift/drag vectors, next to the control desk reading Cl 0.73, Cd 0.043 and L/D 16.9](docs/images/flyshape-wind-tunnel.png)
+
 ## What you see
 
 - **Streamlines** traced through the real velocity field, tinted by local speed —
